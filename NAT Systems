@@ -1,0 +1,9 @@
+The network is configured with the follwoing systems:
+Windows 10 - TARGET-PC
+Windows Server - Active Directory
+Kali - Attacker 
+Splunk Server
+
+The project commences by bringing in the systems mentioned above on a single NAT network to ensure seamless communication. Windows Server acts as the domain controller for Active Directory, while Windows 10 
+(TARGET-PC) simulates a client environment. Kali Linux is used for security testing, and Splunk provides centralized log monitoring. This is the setup for AD configuration.
+Refer to the document for the entire workflow description of this attack.
